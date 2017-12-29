@@ -1,0 +1,6 @@
+{
+  "gmaps": {
+    "apikey": "Your Key Here",
+    "dummystart": {"lat": 40.688981, "lon": -74.044393}
+  }
+}
